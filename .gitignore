@@ -1,0 +1,19 @@
+# .NET
+bin/
+obj/
+*.user
+.vs/
+
+# Node / React
+node_modules/
+build/
+
+# קבצי סביבה מקומיים (לא הקובץ הראשי .env, שמכיל רק את כתובת השרת)
+.env.local
+.env.*.local
+
+# מערכת / עורכים
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
